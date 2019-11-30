@@ -264,3 +264,5 @@ plt.legend(loc=1)
 plt.show()
 </code>
 </pre>
+
+![실제값-예측값](img/img2.png)
